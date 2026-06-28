@@ -1,0 +1,6 @@
+{
+  "name": "GramSeva Connect",
+  "description": "Smart Rural Development Platform - Empowering villages with smart electricity grievance routing, water timing broadcaster, AI crop stress prediction, and employment matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
